@@ -96,3 +96,7 @@ total_tpm	unknown
 5GB1C-JG15-La-BR2_tpm	WithLanthanum
 5GB1C-JG15-N-BR1_tpm	NoLanthanum
 5GB1C-JG15-N-BR2_tpm	NoLanthanum
+5GB1C_CH4_500ppm-Rep1_tpm	CH4_500ppm
+5GB1C_CH4_500ppm-Rep2_tpm	CH4_500ppm
+5GB1C_CH4_1000ppm-Rep1_tpm	CH4_1000ppm
+5GB1C_CH4_1000ppm-Rep2_tpm	CH4_1000ppm
