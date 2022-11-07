@@ -84,6 +84,9 @@ Glycolysis	Fructokinase	EQU24_RS03055
 Glycolysis	Fructokinase	EQU24_RS03480	
 Glycolysis	pyr P dikinase	EQU24_RS06435	
 Glycolysis	G6P isomerase	EQU24_RS00585	
+Glycolysis	aceE	EQU24_RS06090	
+Glycolysis	pyr dehydrogenase aceF	EQU24_RS06095	
+Glycolysis	pfp	EQU24_RS04150	pyrophosphate fructose 6-phosphate phosphotransferase
 TCA_cycle	aKG DH	EQU24_RS08320	check
 TCA_cycle	fum hydratase	EQU24_RS08335	check
 TCA_cycle	isocit DH	EQU24_RS21340	
@@ -101,6 +104,9 @@ TCA_cycle	succ DH	EQU24_RS06970
 TCA_cycle	succ DH	EQU24_RS06975	
 TCA_cycle	succ DH	EQU24_RS06980	
 TCA_cycle	succ DH	EQU24_RS06985	
+TCA_cycle	mdh	EQU24_RS04575	
+TCA_cycle	isocitrate dehydrogenase	EQU24_RS06025	
+TCA_cycle	class II fumarate hydratase	EQU24_RS01795	
 C3_C4_conv	pyr kinase	EQU24_RS13675	
 C3_C4_conv	pyr carbox	EQU24_RS05845	check
 C3_C4_conv	pyr carbox	EQU24_RS05850	check
