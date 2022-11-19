@@ -1,0 +1,145 @@
+cmetab	gene_note	locus_tag	check
+CH4_Ox	pmoC	EQU24_RS19315	
+CH4_Ox	pmoA	EQU24_RS19310	
+CH4_Ox	pmoB	EQU24_RS19305	
+CH4_Ox	sMMO	EQU24_RS05885	
+CH4_Ox	sMMO	EQU24_RS05890	
+CH4_Ox	sMMO	EQU24_RS05895	
+CH4_Ox	sMMO	EQU24_RS05900	
+CH4_Ox	sMMO	EQU24_RS05905	
+CH4_Ox	sMMO	EQU24_RS05910	
+CH4_Ox	sMMO	EQU24_RS05915	
+CH4_Ox	sMMO	EQU24_RS05920	
+CH4_Ox	sMMO	EQU24_RS05925	
+CH3OH_Ox	mxa	EQU24_RS18145	
+CH3OH_Ox	mxa	EQU24_RS18150	
+CH3OH_Ox	mxa	EQU24_RS18155	
+CH3OH_Ox	mxa	EQU24_RS18160	
+CH3OH_Ox	mxa	EQU24_RS18165	
+CH3OH_Ox	mxa	EQU24_RS18170	
+CH3OH_Ox	mxa	EQU24_RS18175	
+CH3OH_Ox	mxa	EQU24_RS18180	
+CH3OH_Ox	mxa	EQU24_RS18185	
+CH3OH_Ox	mxa	EQU24_RS18090	
+CH3OH_Ox	xoxF	EQU24_RS18605	
+CH3OH_Ox	xoxJ	EQU24_RS18610	
+CH3OH_Ox	PQQ syn	EQU24_RS02945	
+CH3OH_Ox	PQQ syn	EQU24_RS02950	
+CH3OH_Ox	PQQ syn	EQU24_RS02955	
+CH3OH_Ox	PQQ syn	EQU24_RS02960	
+CH3OH_Ox	PQQ syn	EQU24_RS02965	
+CH3OH_Ox	PQQ syn	EQU24_RS02970	
+HCHO_Ox	mtdA	EQU24_RS04570	
+HCHO_Ox	mtdB	EQU24_RS06155	
+HCHO_Ox	mtdB	EQU24_RS06160	
+HCHO_Ox	fhcC	EQU24_RS08945	
+HCHO_Ox	fhcD	EQU24_RS08950	
+HCHO_Ox	mch	EQU24_RS09125	
+HCHO_Ox	mptG	EQU24_RS09135	
+HCHO_Ox	fae	EQU24_RS09110	
+HCHO_Ox	fae	EQU24_RS10305	
+HCHO_Ox	fae	EQU24_RS13345	
+HCHO_Ox	fae	EQU24_RS14315	
+HCOOH_Ox	Mo FDH	EQU24_RS01455	
+HCOOH_Ox	Mo FDH	EQU24_RS01460	
+HCOOH_Ox	Mo FDH	EQU24_RS01465	
+HCOOH_Ox	Mo FDH	EQU24_RS01470	
+HCOOH_Ox	Mo FDH	EQU24_RS01475	
+HCOOH_Ox	W FDH	EQU24_RS11515	
+HCOOH_Ox	W FDH	EQU24_RS11520	
+RuMP_cycle	fbaA	EQU24_RS21560	
+RuMP_cycle	talB	EQU24_RS21565	
+RuMP_cycle	hyp	EQU24_RS21570	
+RuMP_cycle	hyp	EQU24_RS21585	
+RuMP_cycle	hyp	EQU24_RS21600	
+RuMP_cycle	hyp	EQU24_RS21615	
+RuMP_cycle	tkl	EQU24_RS21575	
+RuMP_cycle	tkl	EQU24_RS21590	
+RuMP_cycle	tkl	EQU24_RS21605	
+RuMP_cycle	tkl	EQU24_RS21620	
+RuMP_cycle	phi	EQU24_RS23130	
+RuMP_cycle	phi	EQU24_RS23140	
+RuMP_cycle	phi	EQU24_RS23150	
+RuMP_cycle	phi	EQU24_RS23160	
+RuMP_cycle	R5P isomerase	EQU24_RS13265	
+RuMP_cycle	R5P isomerase	EQU24_RS18080	
+RuMP_cycle	hps	EQU24_RS23135	
+RuMP_cycle	hps	EQU24_RS23145	
+RuMP_cycle	hps	EQU24_RS23155	
+RuMP_cycle	hps	EQU24_RS23165	
+ED_pathway	KDPG aldolase	EQU24_RS06105	
+ED_pathway	6PG dehydratase	EQU24_RS06110	
+Glycolysis	pyr kinase	EQU24_RS15285	
+Glycolysis	FBP aldolase	EQU24_RS20710	
+Glycolysis	FBP aldolase	EQU24_RS21560	
+Glycolysis	trioseP isomerase	EQU24_RS09515	check
+Glycolysis	enolase	EQU24_RS13315	
+Glycolysis	trioseP DH	EQU24_RS15280	
+Glycolysis	Pglyc kinase	EQU24_RS21635	
+Glycolysis	Pglyc kinase	EQU24_RS21640	
+Glycolysis	Pglyc kinase	EQU24_RS18895	
+Glycolysis	Pglyc mutase	EQU24_RS09840	
+Glycolysis	Fructokinase	EQU24_RS03055	
+Glycolysis	Fructokinase	EQU24_RS03480	
+Glycolysis	pyr P dikinase	EQU24_RS06435	
+Glycolysis	G6P isomerase	EQU24_RS00585	
+Glycolysis	aceE	EQU24_RS06090	
+Glycolysis	pyr dehydrogenase aceF	EQU24_RS06095	
+Glycolysis	pfp	EQU24_RS04150	pyrophosphate fructose 6-phosphate phosphotransferase
+TCA_cycle	aKG DH	EQU24_RS08320	check
+TCA_cycle	fum hydratase	EQU24_RS08335	check
+TCA_cycle	isocit DH	EQU24_RS21340	
+TCA_cycle	succCoA syn	EQU24_RS04215	
+TCA_cycle	succCoA syn	EQU24_RS04220	
+TCA_cycle	succ semiald DH	EQU24_RS11680	
+TCA_cycle	succ semiald DH	EQU24_RS21775	
+TCA_cycle	citrate syn	EQU24_RS06010	
+TCA_cycle	aconitase	EQU24_RS06015	
+TCA_cycle	succ DH	EQU24_RS11660	
+TCA_cycle	succ DH	EQU24_RS11665	
+TCA_cycle	succ DH	EQU24_RS11670	
+TCA_cycle	succ DH	EQU24_RS06965	check
+TCA_cycle	succ DH	EQU24_RS06970	
+TCA_cycle	succ DH	EQU24_RS06975	
+TCA_cycle	succ DH	EQU24_RS06980	
+TCA_cycle	succ DH	EQU24_RS06985	
+TCA_cycle	mdh	EQU24_RS04575	
+TCA_cycle	isocitrate dehydrogenase	EQU24_RS06025	
+TCA_cycle	class II fumarate hydratase	EQU24_RS01795	
+C3_C4_conv	pyr kinase	EQU24_RS13675	
+C3_C4_conv	pyr carbox	EQU24_RS05845	check
+C3_C4_conv	pyr carbox	EQU24_RS05850	check
+C3_C4_conv	PFOR	EQU24_RS19930	
+C3_C4_conv	AOR	EQU24_RS17595	
+C3_C4_conv	OAA decarbox	EQU24_RS19175	
+C3_C4_conv	OAA decarbox	EQU24_RS19180	
+C3_C4_conv	PEP syn	EQU24_RS13800	
+Serine_cycle	hpr	EQU24_RS04580	check
+Serine_cycle	glyA	EQU24_RS04560	check
+Serine_cycle	gck	EQU24_RS04565	check
+Serine_cycle	mdh	EQU24_RS04575	check
+Serine_cycle	sga	EQU24_RS04625	check
+Serine_cycle	mcl	EQU24_RS04630	check
+Serine_cycle	mCoA ligase	EQU24_RS04635	check
+Serine_cycle	mCoA ligase	EQU24_RS04640	check
+Serine_cycle	eno	EQU24_RS13315	
+ETS	NADH DH	EQU24_RS09760	
+ETS	NADH DH	EQU24_RS09765	
+ETS	NADH DH	EQU24_RS09770	
+ETS	NADH DH	EQU24_RS09775	
+ETS	NADH DH	EQU24_RS09780	
+ETS	NADH DH	EQU24_RS09785	
+ETS	Cytb	EQU24_RS03105	
+ETS	Cytb	EQU24_RS03110	
+ETS	Cytb	EQU24_RS03115	
+ETS	Cytbd oxidase	EQU24_RS01760	
+ETS	Cytaa3	EQU24_RS14110	
+ETS	Cytaa3	EQU24_RS14115	
+ETS	Cytaa3	EQU24_RS14120	
+ETS	Cytaa3	EQU24_RS14125	
+ETS	Cytaa3	EQU24_RS14130	
+ETS	Cytc oxidase	EQU24_RS08255	
+ETS	Cytc oxidase	EQU24_RS08260	
+ETS	Cyt b(o/a)3 type ox	EQU24_RS09070	
+ETS	Cyt b(o/a)3 type ox	EQU24_RS09075	
+ETS	Cyt b(o/a)3 type ox	EQU24_RS09080	

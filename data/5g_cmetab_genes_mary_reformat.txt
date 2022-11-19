@@ -11,7 +11,6 @@ CH4_Ox	sMMO	EQU24_RS05910
 CH4_Ox	sMMO	EQU24_RS05915	
 CH4_Ox	sMMO	EQU24_RS05920	
 CH4_Ox	sMMO	EQU24_RS05925	
-CH3OH_Ox	mxa	EQU24_RS18155	
 CH3OH_Ox	mxa	EQU24_RS18145	
 CH3OH_Ox	mxa	EQU24_RS18150	
 CH3OH_Ox	mxa	EQU24_RS18155	
@@ -72,7 +71,6 @@ ED_pathway	KDPG aldolase	EQU24_RS06105
 ED_pathway	6PG dehydratase	EQU24_RS06110	
 Glycolysis	pyr kinase	EQU24_RS15285	
 Glycolysis	FBP aldolase	EQU24_RS20710	
-Glycolysis	FBP aldolase	EQU24_RS21560	
 Glycolysis	trioseP isomerase	EQU24_RS09515	check
 Glycolysis	enolase	EQU24_RS13315	
 Glycolysis	trioseP DH	EQU24_RS15280	
@@ -104,7 +102,6 @@ TCA_cycle	succ DH	EQU24_RS06970
 TCA_cycle	succ DH	EQU24_RS06975	
 TCA_cycle	succ DH	EQU24_RS06980	
 TCA_cycle	succ DH	EQU24_RS06985	
-TCA_cycle	mdh	EQU24_RS04575	
 TCA_cycle	isocitrate dehydrogenase	EQU24_RS06025	
 TCA_cycle	class II fumarate hydratase	EQU24_RS01795	
 C3_C4_conv	pyr kinase	EQU24_RS13675	
@@ -123,7 +120,6 @@ Serine_cycle	sga	EQU24_RS04625	check
 Serine_cycle	mcl	EQU24_RS04630	check
 Serine_cycle	mCoA ligase	EQU24_RS04635	check
 Serine_cycle	mCoA ligase	EQU24_RS04640	check
-Serine_cycle	eno	EQU24_RS13315	
 ETS	NADH DH	EQU24_RS09760	
 ETS	NADH DH	EQU24_RS09765	
 ETS	NADH DH	EQU24_RS09770	
@@ -136,7 +132,6 @@ ETS	Cytb	EQU24_RS03115
 ETS	Cytbd oxidase	EQU24_RS01760	
 ETS	Cytaa3	EQU24_RS14110	
 ETS	Cytaa3	EQU24_RS14115	
-ETS	Cytaa3	EQU24_RS14120	
 ETS	Cytaa3	EQU24_RS14125	
 ETS	Cytaa3	EQU24_RS14130	
 ETS	Cytc oxidase	EQU24_RS08255	
