@@ -1,5 +1,9 @@
 # 5g-cmetab-tpm-viz
-visualizations for central metabolism genes in 5GB1c
+
+## interactive volcano plot prototype
+* [interactive volcano plot](https://erinhwilson.github.io/5g-cmetab-tpm-viz/alt_out/interactive_volano3_allgrays.html)
+
+Activity visualizations for central metabolism genes in 5GB1c across conditions
 
 * [CH4_Ox](https://erinhwilson.github.io/5g-cmetab-tpm-viz/alt_out/CH4_Ox.html)
 * [CH3OH_Ox](https://erinhwilson.github.io/5g-cmetab-tpm-viz/alt_out/CH3OH_Ox.html)
